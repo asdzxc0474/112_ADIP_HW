@@ -1,0 +1,4 @@
+﻿  hw.cpp
+C:\Users\asdzx\source\repos\Project3\Project3\hw.cpp(90,73): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project3\Project3\hw.cpp(115,81): warning C4305: '引數': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Project3.vcxproj -> C:\Users\asdzx\source\repos\Project3\x64\Debug\Project3.exe

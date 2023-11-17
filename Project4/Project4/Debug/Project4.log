@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\asdzx\source\repos\Project4\Project4\main.cpp(59,4): warning C4551: 函式呼叫遺漏引數清單
+hw.obj : error LNK2019: 在函式 "public: unsigned char * __thiscall hw4::replication_padding3x3(unsigned char *,int,int)" (?replication_padding3x3@hw4@@QAEPAEPAEHH@Z)"public: void __thiscall hw::HW2_1(void)" (?HW2_1@hw@@QAEXXZ) 中參考了無法解析的外部符號
+C:\Users\asdzx\source\repos\Project4\Debug\Project4.exe : fatal error LNK1120: 1 個無法解析的外部符號

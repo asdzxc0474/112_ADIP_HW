@@ -1,0 +1,19 @@
+﻿  class.cpp
+C:\opencv\build\include\opencv2\calib3d.hpp(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(46,43): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(98,48): warning C4244: '正在初始化': 將 'float' 轉換為 'size_t'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(118,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(131,21): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(132,21): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(133,21): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(143,21): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(144,21): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(145,21): warning C4244: '正在初始化': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(154,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(183,29): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(605,8): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(607,12): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(651,12): warning C4101: 'radius': 未參考的區域變數
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(651,9): warning C4101: 'y': 未參考的區域變數
+C:\Users\asdzx\source\repos\Project2\Project2\class.cpp(651,6): warning C4101: 'x': 未參考的區域變數
+  Project2.vcxproj -> C:\Users\asdzx\source\repos\Project2\x64\Debug\Project2.exe
