@@ -1,9 +1,0 @@
-﻿  class.cpp
-C:\Users\asdzx\source\repos\Project4\Project4\class.cpp(163,2): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
-C:\Users\asdzx\source\repos\Project4\Project4\class.cpp(173,2): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
-C:\Users\asdzx\source\repos\Project4\Project4\class.cpp(529,5): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\asdzx\source\repos\Project4\Project4\class.cpp(557,5): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\asdzx\source\repos\Project4\Project4\class.cpp(714,6): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\asdzx\source\repos\Project4\Project4\class.cpp(750,5): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
-C:\Users\asdzx\source\repos\Project4\Project4\class.cpp(951,6): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
-  Project4.vcxproj -> C:\Users\asdzx\source\repos\Project4\x64\Debug\Project4.exe
