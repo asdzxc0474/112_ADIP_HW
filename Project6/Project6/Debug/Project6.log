@@ -1,0 +1,10 @@
+﻿  class.cpp
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(291,42): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(333,53): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(586,14): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(611,50): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(628,31): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(764,5): warning C4101: 'rw': 未參考的區域變數
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(814,73): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\asdzx\source\repos\Project6\Project6\class.cpp(815,48): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Project6.vcxproj -> C:\Users\asdzx\source\repos\Project6\Debug\Project6.exe
