@@ -571,7 +571,7 @@ unsigned char* hw6::Inverse_Filter(double* real, double* imagine, long double* b
 			c = blur_real[i * width + j];
 			d = blur_imagine[i * width + j];
 			double denominator = c * c + d * d ;
-			if(sqrt(denominator)>0.0)
+			if(sqrt(denominator)>0.022)
 			{
 				real_coff[i * width + j] = (a * c + b * d) / denominator;
 				imagine_coff[i * width + j] = (b * c - a * d) / denominator;
